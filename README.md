@@ -18,6 +18,9 @@
   <img align="center" alt="Jerff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jerff-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jerff-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Jerff-Csharp" height="20" width="100" src="https://aleen42.github.io/badges/src/photoshop.svg">
+  <img align="center" alt="Jerff-Csharp" height="20" width="100" src="https://aleen42.github.io/badges/src/illustrator.svg">
+  
 </div>
 
   ##
@@ -25,7 +28,9 @@
 <div> 
   <a href = "mailto:brjerffersonrodrigues@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send?phone=5585992425971"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+   <a href="https://jerffersonrodrigues.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20-56347C?&style=for-the-badge&logo=P&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/jerfferson-rodrigues-2a5859202/?locale=en_US" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
   
  ![Snake animation](https://github.com/Jerfferson-Rodrigues/Jerfferson-Rodrigues/blob/output/github-contribution-grid-snake.svg)
 </div>
