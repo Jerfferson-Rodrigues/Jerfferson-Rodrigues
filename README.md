@@ -1,5 +1,4 @@
-### Hello!😃  I'm Jerfferson Rodrigues
-
+### Hi👋! I'm Jerfferson Rodrigues
 
 - 🎭✨ Front-End Developer 🎨
 - 📚 I’m currently learning Javascript and React 
