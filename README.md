@@ -1,7 +1,7 @@
 ### Hi👋! I'm Jerfferson Rodrigues
 
-- 🎭✨ Front-End Developer 🎨
-- 📚 I’m currently learning Javascript and React 
+- ⚙️ Back-End 🎧👨‍💻
+- 📚 Software Developer
 - 💻 I'm a fan of programming, football⚽🎮
 
 <div>
