@@ -1,7 +1,7 @@
 ### Hi👋! I'm Jerfferson Rodrigues
 
 - ⚙️ Developer 🎧👨‍💻
-- 📚 Software Developer | :sparkles:Front-end Developer :art:
+- 📚 Software Developer 
 - 💻 I'm a fan of programming, football⚽🎮
 
 <div>
